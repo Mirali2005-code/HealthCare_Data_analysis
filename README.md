@@ -127,7 +127,7 @@ Transforms analytical findings into business decisions by presenting:
 
 ### Executive Overview
 
-![Executive Overview](Executive_Overview.png)
+![Executive_Overview](Executive_Overview.png)
 
 ---
 
