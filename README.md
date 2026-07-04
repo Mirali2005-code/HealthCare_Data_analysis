@@ -25,6 +25,29 @@ This project analyzes hospital data to answer key business questions such as:
 The final outcome is an interactive executive dashboard designed for healthcare management.
 
 ---
+## 📸 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
+
+---
+
+### Patient Intelligence
+
+![Patient Intelligence](Dashboard%20Screenshots/patient_demographics_&_satisfication_Analysis.png)
+
+---
+
+### Hospital Operations
+
+![Hospital Operations](Dashboard%20Screenshots/Hospital_Operations_&_Performance_Analysis.png)
+
+---
+
+### Executive Insights & Recommendations
+
+![Executive Insights](Dashboard%20Screenshots/Executive_Insights_&_Recommandations.png)
 
 ## 🛠 Technology Stack
 
