@@ -49,6 +49,8 @@ The final outcome is an interactive executive dashboard designed for healthcare 
 
 ![Executive Insights](Executive_Insights_&_Recommandations.png)
 
+---
+
 ## 🛠 Technology Stack
 
 - Python
