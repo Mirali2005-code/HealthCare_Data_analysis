@@ -29,25 +29,25 @@ The final outcome is an interactive executive dashboard designed for healthcare 
 
 ### Executive Overview
 
-![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ---
 
 ### Patient Intelligence
 
-![Patient Intelligence](Dashboard%20Screenshots/patient_demographics_&_satisfication_Analysis.png)
+![Patient Intelligence](patient_demographics_&_satisfication_Analysis.png)
 
 ---
 
 ### Hospital Operations
 
-![Hospital Operations](Dashboard%20Screenshots/Hospital_Operations_&_Performance_Analysis.png)
+![Hospital Operations](Hospital_Operations_&_Performance_Analysis.png)
 
 ---
 
 ### Executive Insights & Recommendations
 
-![Executive Insights](Dashboard%20Screenshots/Executive_Insights_&_Recommandations.png)
+![Executive Insights](Executive_Insights_&_Recommandations.png)
 
 ## 🛠 Technology Stack
 
